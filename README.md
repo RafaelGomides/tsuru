@@ -23,6 +23,11 @@ Links:
 
 With the purpose of testing tsuru and/or for development, you can use the [installer](https://docs.tsuru.io/stable/installing/using-tsuru-installer.html) to have tsuru up and running. The installer is an experimental feature.
 
+## Aditional Setup
+
+You can configure an Environment Variable called TSURU_TOKEN in your OS to improve your experience.
+tsuru will recognize automatically.
+
 ### From Binary
 
 #### Getting tsuru-client
